@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 17237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8BAAAAAAAA3wEAAAAAAAATAAAAMjAyNCA1MjgwIFRyZWUgQ2FyZQ",
+					"AQAAAAAAAAABAAAA3wEAAAAAAADyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"right_delete",
+					null,
+					"AQAAAN8BAAAAAAAA3wEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA3wEAAAAAAADfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0BAAAAAAAA3QEAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAA3wEAAAAAAADfAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts"
+	],
+	"file_history":
+	[
+		"/C/_dev/_treeBubbleNFO/mdFiles/2024-01-12-algal-leaf-spot.md",
+		"/C/_dev/_treeBubbleNFO/mdFiles/2024-01-15-a-guide-to-fruit-trees-eat.md",
+		"/C/_dev/_treeBubbleNFO/mdFiles/algal-leaf-spot_no_images.md",
+		"/C/_dev/_treeBubbleNFO/mdFiles/2024-01-15-a-guide-to-fruit-trees-should-you-eat.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-01-17-4-things-your-trees-dont-like.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/teaching.md",
+		"/C/_dev/_treeBubbleNFO/mdFiles/2024-01-17-4-things-your-trees-dont-like.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/cv.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/about.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/about_einstein.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/profiles.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-01-27-advanced-images.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/lighthouse_results/desktop/alshedivat_github_io_al_folio_.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/lighthouse_results/mobile/alshedivat_github_io_al_folio_.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_config.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/CNAME",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/al-folio/Gemfile",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/Gemfile",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/404.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/dropdown/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/404.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/_pages/dropdown/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/news/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/news/announcement_1/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/news/announcement_2/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/news/announcement_3/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/people/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/1_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/2_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/3_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/4_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/5_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/projects/6_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/teaching/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/tree-removal/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/tree-trimming/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/news/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/news/announcement_1/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/news/announcement_2/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/news/announcement_3/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/people/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/1_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/2_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/3_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/4_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/5_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/projects/6_project/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/teaching/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/tree-removal/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/tree-trimming/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/code/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/disqus-comments/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/formatting-and-links/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/images/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2015/math/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2020/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2020/github-metadata/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2020/twitter/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2021/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2021/diagrams/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2021/distill/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2022/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2022/giscus-comments/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2022/redirect/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/audios/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/custom-blockquotes/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/jupyter-notebook/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/post-bibliography/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/sidebar-table-of-contents/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/table-of-contents/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/tables/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/tikzjax/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2023/videos/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/advanced-images/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/chartjs/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/code-diff/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/echarts/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/geojson-map/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/2024/vega-lite/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/category/external-services/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/category/sample-posts/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/page/2/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/page/3/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/page/4/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/page/5/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/page/6/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/audios/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/bib/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/blockquotes/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/charts/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/code/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/comments/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/diagrams/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/distill/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/formatting/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/images/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/jupyter/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/links/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/maps/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/math/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/metadata/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/sidebar/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/tables/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/toc/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_site/articles/tag/videos/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/code/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/disqus-comments/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/formatting-and-links/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/images/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2015/math/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2020/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2020/github-metadata/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2020/twitter/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2021/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2021/diagrams/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2021/distill/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/articles/2022/index.html"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prof_pic.jpg",
+			"Write your biography here",
+			"href=\"/articles/\">articles",
+			"/articles/",
+			"/blog/",
+			"href=\"/blog/\">articles",
+			"href=\"/blog/\">blog",
+			"blog",
+			"treeremoval",
+			"treetrimming",
+			"tree trimming",
+			"tree removal",
+			"tree-trimming",
+			"publications",
+			"href=\"/publications/\">publications",
+			"repositories",
+			"href=\"/repositories/\">repositories"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tree-care-in-denver.jpg",
+			"href=\"/blog/\">articles",
+			"/articles/",
+			"href=\"/articles/\">articles",
+			"tree-removal",
+			"tree-trimming",
+			"tree-removal",
+			"tree-trimming",
+			"href=\"/tree trimming/\">tree trimming",
+			"tree removal",
+			"href=\"/treeremoval/\">tree removal"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\mezcal\\projects\\5280treecare"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 430.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
