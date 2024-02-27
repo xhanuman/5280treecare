@@ -2,25 +2,49 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tree-care-in-denver.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: > # shows up under image
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5280 Tree Care</title>
+</head>
+<body>
+    <p>At 5280 Tree Care, we're dedicated to nurturing the green heart of your landscape. With our deep-rooted commitment to arboriculture and excellence, we offer a comprehensive suite of tree care services, meticulously tailored to cater to your specific needs. Our expertise spans from sculpting trees to perfection, enhancing their natural beauty and promoting healthy growth, to the safe and efficient removal of trees that have reached the end of their life or pose a risk to your property. Our methods, equipment and skilled technicians make stump removal effortless, while our tree planting services ensure the proper selection, placement, and care for your trees' optimal growth and longevity. We're committed to maintaining the vitality of your trees through our extensive tree health services, addressing everything from disease diagnosis and treatment to pest management and fertilization.</p>
+                    <h5>Why Choose Us?</h5>
+                    <p>Our years of experience, coupled with a team of certified arborists, equip us with the knowledge and skills to tackle any tree care challenge with proficiency. Safety and customer satisfaction stand at the forefront of our values; we adhere to the industry's best practices and employ the latest safety protocols to guarantee a risk-free environment for every project. We pride ourselves on open communication, aiming to not just meet but exceed your expectations, earning your trust through unparalleled service.</p>
+                    <h5>Transform Your Outdoor Space</h5>
+                    <p>Transform your outdoor space with the expertise of 5280 Tree Care. Contact us today to schedule a consultation and witness firsthand the transformative impact of professional tree care on your landscape.</p>
+                    <h5>Our Services:</h5>
+                    <ul>
+                        <li>
+                            <strong>tree-trimming:</strong> Let us sculpt your trees to perfection, enhancing their natural beauty while promoting healthy growth. Our skilled arborists specialize in precise pruning techniques to maintain aesthetics and structural integrity.
+                        </li>
+                        <li>
+                            <strong>tree-removal:</strong> When a tree reaches the end of its life or poses a risk to your property, our expert team is here to safely and efficiently remove it. From small ornamentals to towering giants, we handle every job with care and precision.
+                        </li>
+                        <li>
+                            <strong>Stump Removal:</strong> Say goodbye to unsightly stumps cluttering your landscape. Our state-of-the-art equipment and experienced technicians make stump removal a breeze, restoring your outdoor space to its full potential.
+                        </li>
+                        <li>
+                            <strong>Tree Planting:</strong> Whether you're adding new trees to your property or replacing lost ones, our tree planting services ensure proper selection, placement, and care for optimal growth and longevity. Watch your landscape flourish with our expert guidance.
+                        </li>
+                        <li>
+                            <strong>General Tree Health:</strong> Maintain the vitality of your trees with our comprehensive tree health services. From disease diagnosis and treatment to pest management and fertilization, we're committed to preserving the well-being of your arboreal investments.
+                        </li>
+                    </ul>
+</body>
+</html>
