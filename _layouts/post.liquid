@@ -57,16 +57,19 @@ layout: default
   </header>
 
   <article class="post-content">
-    {% if page.toc and page.toc.beginning %}
-      <div id="table-of-contents">
-        {% toc %}
-      </div>
-      <hr>
-    {% endif %}
-    <div id="markdown-content">
-      {{ content }}
+  {% comment %}
+  {% if page.toc and page.toc.beginning %}
+    <div id="table-of-contents">
+      {% toc %}
     </div>
-  </article>
+    <hr>
+  {% endif %}
+  {% endcomment %}
+  <div id="markdown-content">
+    {{ content }}
+  </div>
+</article>
+
 
   {% if page.related_publications %}
     <h2>References</h2>
