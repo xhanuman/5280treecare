@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: 5280treecare.com/sitemap.xml
+Sitemap: https://5280treecare.com/sitemap.xml
