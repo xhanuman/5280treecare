@@ -245,6 +245,20 @@ defaults:
     values:
       sitemap: true
 
+sitemap:
+  exclude:
+    - /cv/
+    - /lighthouse_results/
+    - /news/
+    - /projects/
+    - /publications/
+    - /repositories/
+    - /teaching/
+    - /plotly/
+    - /pdf/
+    - /jupyter/
+    - /about_einstein/
+
 sass:
   style: compressed
 
