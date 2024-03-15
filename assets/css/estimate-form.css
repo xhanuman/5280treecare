@@ -1,0 +1,22 @@
+/* assets/css/estimate-form.css */
+#estimate-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#estimate-form label {
+  display: block;
+  margin-top: 1rem;
+}
+
+#estimate-form input,
+#estimate-form textarea,
+#estimate-form select {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#estimate-form button {
+  margin-top: 1rem;
+}

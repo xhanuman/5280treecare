@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare"
+	],
+	"file_history":
+	[
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/tree-removal-denver.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/1_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/2_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/3_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/4_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/5_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_projects/6_project.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/tree-trimming-denver.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/estimate.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/news.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/profiles.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/projects.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/publications.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/repositories.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/teaching.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_news/announcement_1.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_news/announcement_3.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/cv.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/dropdown.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_layouts/about.liquid",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_news/announcement_2.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/about.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_includes/estimate-form.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/assets/js/estimate-form.js",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_config.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/blog.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/estimate/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_layouts/post.liquid",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_layouts/default.liquid",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/assets/css/estimate-form.css",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/tree-removal-denver/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/estimate/index.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/index.html",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/lighthouse-badger.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/robots.txt",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/sitemap.xml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/sitemapBaK.xml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/docker-slim.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/deploy.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/deploy-image.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/deploy-docker-tag.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/broken-links.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/broken-links-site.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/.github/workflows/axe.yml",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/Gemfile",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/tree-trimming.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_pages/tree-removal.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-29-barklice.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-01-22-cankerworms.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-01-20-dryads-saddle.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-01-19-tinder-fungus.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-02-26-sprinkler-repair-denver.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-28-hemlock-woolly-adelgid.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-30-aphids.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-04-california-oakworm.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-05-spruce-spider-mites.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-06-black-vine-weevil.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-10-conifer-bark-beetle.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-11-buck-moth.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-12-mites.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-14-photinia-leaf-spot.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-15-things-your-trees-dont-like.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-17-cherry-bark-tortrix.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-18-rhizosphaera-needle-cast.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-19-how-to-stop-sprouts-from-stumps-and-trees.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-20-ash-leaf-rust.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-21-dead-mans-fingers.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-23-twig girdler and twig pruner.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-24-leaf-spot-melting-out.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-25-eastern-spruce-gall-adelgid.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-26-bagworms.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-30-winter moth.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-05-31-tree-planting-tips-tricks-from-the-pros.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-01-turf-grubs.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-02-verticillium wilt.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-03-what-you-should-know-about-the-kentucky-coffee-tree.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-04-cytospora-canker.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-05-hen-of-the-woods.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-07-pine-wilt-disease.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-08-gray-snow-mold.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-14-bacterial-leaf-scorch.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-15-bronze-birch-borer.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-18-sod-webworms.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-20-dollar-spot.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-21-zimmerman pine moth.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-22-emerald-ash-borer.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-24-euonymus-scale.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-25-iron-chlorosis.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-26-oak-galls.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-06-30-seiridium-canker.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-04-anthracnose.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-06-sprinkler-repair-denver.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-07-scale-insects.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-13-japanese-beetles.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-14-elm-leaf-beetle.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-15-pine-tip-and-pine-shoot-moths.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-16-armillaria-root-rot.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-17-black-turpentine-beetle.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-20-tree-cabling-and-bracing.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-24-notable-trees-in-denver-co.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-07-28-bur-oak-blight.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-02-your-tree-died-what-to-do.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-03-ask-a-professional-why-do-hardwood-trees-drop-their-leafs.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-05-pitch-canker-of-pine.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-10-cedar-rust.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-13-how-to-avoid-salt-damage-on-your-trees.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-16-beech-leaf-disease.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-22-tree-compartmentalization.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-28-ticks.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-08-30-thatch.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-09-01-boxwood-leafminer.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-09-03-whitefly.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-07-powdery-mildew-on-lawns.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-12-how-rubber-mulch-rings-impact-your-trees.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-15-eastern-tent-caterpillar.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-18-borers.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-21-boxwood-insects-and-mite-pests.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-24-fall-webworm.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-25-rust-disease.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-26-chinch-bugs.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-27-crabgrass.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-03-30-chicken-of-the-woods.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-01-pine-sawfly.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-04-all-about-aphids-in-your-trees.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-06-cottony-maple-scale.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-07-pink-snow-mold.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-10-spongy-moth.md",
+		"/?wsl.localhost/Ubuntu/home/mezcal/projects/5280treecare/_posts/2024-04-12-ash-whitefly.md"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header.liquid",
+			"head.liquid",
+			"nav_links",
+			"header_pages",
+			"defaults",
+			"default",
+			"defaults",
+			"posts",
+			"liquid",
+			"date",
+			"{% endfor %}",
+			"{% assign permalink = post.url %}",
+			"{% for post in paginator.posts %}",
+			"template",
+			"permalink",
+			"json",
+			"defaults",
+			"permalin",
+			"estimate",
+			"resources",
+			"nav",
+			"navigation",
+			"includes",
+			"removal",
+			"header_pages",
+			"header",
+			"tree-trimming-denver",
+			"LIGHTHOUSE_BADGER_TOKEN",
+			"sitem",
+			"https://5280",
+			"http://5280",
+			"http://",
+			"http",
+			"sitemap",
+			"<loc>{{",
+			"projects",
+			"teaching",
+			"projects",
+			"LIGHTHOUSE_BADGER_TOKEN",
+			"actions/checkout@v4",
+			"toc",
+			"pages",
+			"publ",
+			"future",
+			"timez",
+			"sprinker repair",
+			": ",
+			"---",
+			"prof_pic.jpg",
+			"Write your biography here",
+			"href=\"/articles/\">articles",
+			"/articles/",
+			"/blog/",
+			"href=\"/blog/\">articles",
+			"href=\"/blog/\">blog",
+			"blog",
+			"treeremoval",
+			"treetrimming",
+			"tree trimming",
+			"tree removal",
+			"tree-trimming",
+			"publications",
+			"href=\"/publications/\">publications",
+			"repositories",
+			"href=\"/repositories/\">repositories"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tree-care-in-denver.jpg",
+			"href=\"/blog/\">articles",
+			"/articles/",
+			"href=\"/articles/\">articles",
+			"tree-removal",
+			"tree-trimming",
+			"tree-removal",
+			"tree-trimming",
+			"href=\"/tree trimming/\">tree trimming",
+			"tree removal",
+			"href=\"/treeremoval/\">tree removal"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\mezcal\\projects\\5280treecare"
+		},
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\mezcal\\projects\\5280treecare\\_site"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
