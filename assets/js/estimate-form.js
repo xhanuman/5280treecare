@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("form");document.getElementById("photos");e?e.addEventListener("submit",function(){}):console.error("Form element not found.")});
