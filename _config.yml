@@ -222,6 +222,12 @@ exclude:
   - readme_preview/
   - vendor
   - _site/blog/2015/formatting-and-links/
+  - .dockerignore
+  - .github/workflows/docker.yml
+  - .github/workflows/docker-slim.yml
+  - .github/workflows/deploy-docker-tag.yml
+  - .github/workflows/docker-publish.yml
+  
 keep_files:
   - CNAME
   - .nojekyll
