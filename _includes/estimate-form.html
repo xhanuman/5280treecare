@@ -1,5 +1,5 @@
 <!-- _includes/estimate-form.html -->
-<form id="estimate-form" action="https://formspree.io/f/mleqlqge" method="POST">
+<form id="estimate-form" action="https://formspree.io/f/mleqlqge" method="POST" enctype="multipart/form-data">
   <label for="name">Name</label>
   <input type="text" id="name" name="name">
 
@@ -47,7 +47,7 @@
   <textarea id="message" name="message"></textarea>
 
   <label for="photos">Attach up to three pictures of work to be done. (Not Required)</label>
-  <input type="file" id="photos" name="photos[]" accept="image/gif,image/png,image/jpeg" multiple>
+  <input type="file" id="photos" name="upload" accept="image/gif,image/png,image/jpeg" multiple>
 
   <button type="submit">Send</button>
 </form>
