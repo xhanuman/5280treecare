@@ -225,9 +225,10 @@ exclude:
   - .dockerignore
   - .github/workflows/docker.yml
   - .github/workflows/docker-slim.yml
+  - .github/workflows/docker-image.yml
   - .github/workflows/deploy-docker-tag.yml
   - .github/workflows/docker-publish.yml
-  
+
 keep_files:
   - CNAME
   - .nojekyll
