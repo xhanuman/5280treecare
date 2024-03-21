@@ -12,12 +12,11 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 <div class="phone-number">
-  <span class="hidden-number">720.916.9986</span>
   <p>
     Ready to elevate your landscape with a comprehensive tree maintenance and care plan? Our expert team is here to bring your vision to life. Take the first step now:
   </p>
   <p>
-    Call us at <a href="#" class="show-number">show number</a> to discuss your project with our friendly specialists.
+    Call us at <span class="hidden-number">720.916.9986</span><a href="#" class="show-number">show number</a> to discuss your project with our friendly specialists.
   </p>
   <p>
     OR
