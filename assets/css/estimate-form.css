@@ -1,4 +1,5 @@
 /* assets/css/estimate-form.css */
+
 #estimate-form {
   max-width: 500px;
   margin: 0 auto;
@@ -19,4 +20,20 @@
 
 #estimate-form button {
   margin-top: 1rem;
+}
+
+.phone-number {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.hidden-number {
+  display: none;
+}
+
+.show-number {
+  display: inline-block;
+  cursor: pointer;
+  vertical-align: middle;
 }
